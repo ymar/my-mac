@@ -18,7 +18,7 @@
 #### [iA Writer](https://ia.net/writer/)
 #### [MacDown](https://macdown.uranusjr.com/)
 
-#Development
+# Development
 #### [iTerm 2](https://www.iterm2.com/)
 #### [Atom](https://atom.io/)
 #### [Github](https://desktop.github.com/)
@@ -26,7 +26,7 @@
 #### [Cyberduck](https://cyberduck.io/)
 
 
-#Image Editing & Design
+# Image Editing & Design
 ####  [Pixelmator](http://www.pixelmator.com/mac/)
 ####  [Sketch](https://www.sketchapp.com/)
 ####  [WhatsApp](https://www.whatsapp.com/download/)
