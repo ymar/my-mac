@@ -11,12 +11,11 @@
 #### [Google Drive](https://www.google.com/drive/download/)
 #### [Spotify](https://www.spotify.com/download/other/)
 #### [Readkit](http://readkitapp.com/)
-#### [NextMeeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
+#### [Up Next](https://itunes.apple.com/us/app/up-next/id1355117041?ls=1&mt=12)
 #### [Tad](http://tadviewer.com/)
-#### [Bear](http://www.bear-writer.com/)
-#### [Dropbox Paper](https://github.com/williambout/paper-for-mac)
 #### [iA Writer](https://ia.net/writer/)
 #### [MacDown](https://macdown.uranusjr.com/)
+#### [Day-0] (https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock)
 
 # Development
 #### [iTerm 2](https://www.iterm2.com/)
